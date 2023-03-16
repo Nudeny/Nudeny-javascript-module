@@ -1,0 +1,26 @@
+{
+  "name": "nudeny",
+  "version": "0.0.1",
+  "description": "Nudeny package to classify and detect nudity from an image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nudeny/Nudeny-javascript-module.git"
+  },
+  "keywords": [
+    "nudeny"
+  ],
+  "author": "Nudeny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nudeny/Nudeny-javascript-module/issues"
+  },
+  "homepage": "https://github.com/Nudeny/Nudeny-javascript-module#readme",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "form-data": "^4.0.0"
+  }
+}
