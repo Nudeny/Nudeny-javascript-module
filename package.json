@@ -1,6 +1,6 @@
 {
   "name": "nudeny",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Nudeny package to classify and detect nudity from an image.",
   "main": "index.js",
   "scripts": {

@@ -2,7 +2,8 @@ const axios = require("axios");
 const fs = require("fs");
 const FormData = require('form-data');
 
-const URL = "http://127.0.0.1:8000/";
+const LOCALHOST_URL = "http://127.0.0.1:8000/";
+const URL = "http://ec2-18-142-227-173.ap-southeast-1.compute.amazonaws.com/"
 
 /**
  * Send a form data request to Nudeny classify endpoint.
